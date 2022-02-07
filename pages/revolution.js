@@ -447,7 +447,7 @@ export default function Revolution() {
             src="/assets/reviewIcon.svg"
             alt="magnifying glass"
             width="100%"
-            style={{ maxWidth: 300 }}
+            style={{ maxWidth: "40em" }}
           />
         </Grid>
       </Grid>
@@ -503,7 +503,6 @@ export default function Revolution() {
             src="/assets/designIcon.svg"
             alt="paintbrush leaving stroke of paint"
             width="100%"
-            style={{ maxWidth: 300 }}
           />
         </Grid>
       </Grid>
@@ -558,7 +557,7 @@ export default function Revolution() {
             src="/assets/reviewIcon.svg"
             alt="magnifying glass"
             width="100%"
-            style={{ maxWidth: 300 }}
+            style={{ maxWidth: "40em" }}
           />
         </Grid>
       </Grid>
